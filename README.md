@@ -1,3 +1,5 @@
+![OtherMy cover](assets/othermy-cover.jpg)
+
 # OtherMy
 
 Digital immortality as remembrance — not survival.
