@@ -8,8 +8,7 @@ keep you updated while we fix it. Please give us reasonable time before any publ
 
 ## How OtherMy protects people's data
 
-- Every account signs in with Firebase Authentication; the app also proves it is the genuine app
-  (Apple App Attest).
+- Every account signs in with Firebase Authentication, and every request carries a verified sign-in.
 - Data travels over TLS and is stored with our cloud providers' encryption. OtherMy is **not**
   end-to-end encrypted.
 - Only the people a person allows can talk to their copy; guardians can do nothing while the
