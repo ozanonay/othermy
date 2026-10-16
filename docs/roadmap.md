@@ -1,70 +1,26 @@
 # Roadmap
 
-## Overview
+## Built
 
-This roadmap outlines the major phases of OtherMy's development. Dates are intentionally omitted to avoid making promises we cannot keep. Development proceeds at a careful pace, prioritizing ethical considerations and user needs over speed.
+- Your own copy: a six-question start, then 273 questions in 8 chapters; answering by talking.
+- Copies of other people (*For Someone Else*), shared with up to five family members.
+- Chat imports from WhatsApp and Telegram, voice recordings, memories with photos.
+- A copy that texts like the person: their words, rhythm and habits, measured from their own messages.
+- Voice with consent (Premium), and calls labelled as AI.
+- Messages for the Future, Guardians, Family Tree, For My Child.
+- Download everything in one file; delete anything.
+- English, German, French, Spanish and Turkish.
+- *OtherMy for Family*: talk with copies and add memories from any browser.
 
-## Phases
+## Now
 
-### Research & Framing
+- Testing with families before the App Store release.
+- The waitlist on [othermy.com](https://othermy.com).
 
-During this phase, we focus on:
-- Ethical framework development
-- Understanding user needs and concerns
-- Research partnerships with ethicists and academics
-- Technical feasibility studies
-- Community engagement and feedback
+## Next
 
-This foundational work informs all subsequent development.
+- App Store release (iPhone and iPad).
+- More of the app in the browser for family members (answering questions, recordings).
+- Reviewed translations by native speakers.
 
-### Prototype
-
-Prototype development includes:
-- Core platform architecture
-- Basic AI representation capabilities
-- User interface and experience design
-- Privacy and security infrastructure
-- Guardian and posthumous access systems
-
-Prototypes are tested internally and with close collaborators to validate concepts and identify issues.
-
-### Private Testing
-
-Before wider release, OtherMy undergoes private testing with:
-- Careful selection of early users
-- Structured feedback collection
-- Ethical review of usage patterns
-- Iterative improvements based on testing
-- Documentation and support system development
-
-Private testing helps ensure the platform is ready for broader availability while maintaining ethical standards.
-
-### Public Release
-
-Public release considerations include:
-- Accessibility to broader user base
-- Ongoing support and maintenance
-- Continued ethical review and framework updates
-- Community building and engagement
-- Long-term sustainability planning
-
-Public release timing depends on successful completion of earlier phases and confidence in ethical and technical readiness.
-
-## Current Status
-
-OtherMy is currently progressing through the Research & Framing and Prototype phases. Specific milestones and timelines are communicated to stakeholders through our website and direct engagement channels.
-
-## Approach
-
-Our roadmap prioritizes:
-- Ethical considerations over speed
-- User consent and control
-- Transparency about limitations
-- Careful, thoughtful development
-- Long-term sustainability
-
-We believe that digital legacy and AI representation require careful, deliberate development rather than rapid iteration.
-
-## Feedback
-
-If you have questions about our roadmap or would like to provide feedback on our development priorities, please contact us through our website at https://othermy.com.
+We don't publish dates. Each step ships when it's ready and honest about what it does.

@@ -1,60 +1,58 @@
-# Frequently Asked Questions
+# Frequently asked questions
 
-## Is this real immortality?
+## What is OtherMy?
+An iPhone and iPad app that keeps a person's stories, their way of talking and, with consent, their
+voice, so their family can still ask them things. You build a copy from answers to questions,
+memories with photos, voice recordings and real chats.
 
-No. OtherMy does not provide literal immortality or continuation of life after death. We create digital representations based on documented patterns of communication, thought, and experience. These representations are interactive models, not living beings. They can help preserve memory and facilitate meaningful interactions, but they are not the person themselves.
+## Is the copy the real person?
+No. It doesn't think, feel or continue anyone's life. It answers from what it was told, and when it
+doesn't know something, it says so. If you ask whether it's the real person, it tells you it's a
+digital copy.
 
-## Does OtherMy claim consciousness?
+## Can I make a copy of someone who has already died?
+Yes, with *For Someone Else*. You answer questions about them, add memories, recordings and chats you
+exported (only their side teaches the copy), and family can help. A voice can be added only from their
+own recordings and only if you have their consent or another legal right.
 
-No. Our AI representations are sophisticated pattern-matching systems. They do not possess consciousness, sentience, or awareness. They respond based on training data and statistical models, not through understanding or feeling. We are explicit about this limitation and do not use language that suggests our AI is conscious or alive.
+## Where does the copy's knowledge come from?
+Only from what was shared with it: the person's answers (or yours about them), memories, recordings,
+chats. It never makes up names, dates, places or events.
 
-## What data is used?
+## Does my data train AI models?
+What you share never trains public AI models. The copy is built for you and your family.
 
-OtherMy uses data that users explicitly provide, such as:
-- Written conversations and messages
-- Personal documents and writings
-- Voice recordings (with consent)
-- Photographs and videos (with consent)
-- Responses to structured questions about preferences, experiences, and perspectives
+## Can I delete everything?
+Yes. Delete any answer, memory, recording or chat, or your whole account. You can also download
+everything in one file first.
 
-We do not access private communications, emails, or other data without explicit user permission. Users control what information is included in their representation.
+## What happens to my copy when I die?
+You choose up to five guardians. They can do nothing while you're here. If they report your passing,
+you get 30 days and several reminders to say you're fine; after that they look after your copy and
+the messages you left, the way you set it up.
 
-## Can users delete their data?
+## What if OtherMy closes?
+You'd hear at least 90 days before, and downloading your data would keep working until the last day.
 
-Yes. Users can delete their data and digital representation at any time during their lifetime. Deletion processes are designed to remove data from our systems, subject to reasonable technical constraints and legal requirements. For information about data retention policies and deletion procedures, please contact us through our website.
+## Is it encrypted?
+Data is protected in transit and stored with our cloud providers' encryption, but OtherMy is not
+end-to-end encrypted. We say so plainly.
 
-## Who controls access after death?
+## Is it therapy?
+No. OtherMy isn't a medical or therapeutic product. If you're struggling with grief, please talk to
+people around you or a professional.
 
-Users designate trusted guardians during their lifetime who can manage their digital representation after death. These guardians operate under clear guidelines and user-defined permissions. The system is designed to respect the wishes of the deceased as expressed through their account settings and guardian designations.
+## Which languages does it speak?
+The app speaks English, German, French, Spanish and Turkish. A copy answers in the language you
+write to it in.
 
-## Is this a medical or therapeutic tool?
+## My family doesn't have iPhones. Can they join?
+Yes. *OtherMy for Family* works in any browser: they sign in, enter the invite code you sent, talk
+with the copies they're invited to and add memories.
 
-No. OtherMy is not a medical device or therapeutic tool. It is a digital legacy and memory preservation platform. We do not claim therapeutic benefits, and we encourage users to seek appropriate professional support for grief, loss, or other psychological needs. Our platform is designed to support remembrance and connection, not to provide treatment or therapy.
+## How much does it cost?
+There's a free plan. Paid plans add more messages, more copies of other people, more guardians,
+voice recordings and, with Premium, a voice. Prices are on the App Store page when the app is live.
 
-## Is the product publicly available?
-
-OtherMy is currently in active development. Availability varies by region and development phase. For current information about access, availability, and beta testing opportunities, please visit our website at https://othermy.com.
-
-## How accurate are the AI representations?
-
-AI representations are based on the data provided by users. Their accuracy depends on the quality and quantity of input data. Representations may capture patterns of communication style, preferences, and documented perspectives, but they are statistical models, not perfect replications. We encourage users to understand these representations as aids to memory rather than literal recreations.
-
-## What happens if the company shuts down?
-
-We are committed to providing clear data portability and archival options. Users can export their data, and we are working on long-term preservation strategies. Our commitment to user data control extends to scenarios where the platform may no longer operate.
-
-## Is my data secure?
-
-We implement industry-standard security measures including encryption in transit and at rest, secure authentication, and regular security audits. However, no digital system is completely immune to security risks. We are transparent about our security practices and will notify users of any significant security incidents affecting their data.
-
-## Can I use this for someone who has already died?
-
-OtherMy is primarily designed for individuals to create their own representations during their lifetime with full consent and control. Creating representations for deceased individuals raises complex ethical questions about consent and accuracy. If you are interested in this use case, please contact us to discuss ethical considerations and available options.
-
-## How do you handle misinformation or harmful content?
-
-Users are responsible for the content they provide. We have policies against harmful, illegal, or misleading content. If representations contain errors or problematic material, users (or their guardians) can modify or remove content. We do not actively monitor conversations or content, but we respond to reports of policy violations.
-
-## Do you share data with third parties?
-
-We do not sell user data. We may share data with trusted service providers necessary for platform operation (such as cloud storage or AI processing services) under strict confidentiality agreements. We are transparent about data sharing practices and provide users with control over their data.
+## Can I use it now?
+Not yet in the App Store. Join the waitlist on [othermy.com](https://othermy.com).

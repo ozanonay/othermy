@@ -1,43 +1,22 @@
-# Security Policy
+# Security
 
-## Reporting Vulnerabilities
+## Reporting a vulnerability
 
-If you discover a security vulnerability in OtherMy, please report it responsibly. We take security seriously and will work to address reported issues promptly.
+Please email **support@othermy.com** with "Security" in the subject, and don't open a public issue.
+Include what you found, how to reproduce it, and how to reach you. We'll reply as soon as we can and
+keep you updated while we fix it. Please give us reasonable time before any public disclosure.
 
-**How to Report:**
-- Please do not report security vulnerabilities through public GitHub issues
-- Contact us through our website at https://othermy.com with details of the vulnerability
-- Include steps to reproduce the issue if possible
-- Allow reasonable time for us to address the issue before public disclosure
+## How OtherMy protects people's data
 
-We appreciate responsible disclosure and will work with security researchers to address valid concerns.
+- Every account signs in with Firebase Authentication; the app also proves it is the genuine app
+  (Apple App Attest).
+- Data travels over TLS and is stored with our cloud providers' encryption. OtherMy is **not**
+  end-to-end encrypted.
+- Only the people a person allows can talk to their copy; guardians can do nothing while the
+  person is alive and active.
+- What people share never trains public AI models, and data is never sold.
+- People can download everything in one file and delete any part, or their whole account.
 
-## User Data Protection
+## Privacy questions
 
-OtherMy is committed to protecting user data:
-
-- **Encryption**: Data is encrypted in transit using TLS and at rest using industry-standard encryption
-- **Access Controls**: Strict access controls limit who can access user data
-- **Regular Audits**: We conduct regular security audits and assessments
-- **Incident Response**: We have procedures for responding to security incidents
-- **User Control**: Users maintain control over their data and can request deletion
-
-## Data Minimization
-
-We collect and retain only the data necessary for platform functionality. Unnecessary data is not collected or is deleted when no longer needed.
-
-## Third-Party Services
-
-We use trusted third-party services for essential platform functions (such as cloud infrastructure and AI processing). These services are selected with security and privacy in mind, and we require strict confidentiality and security standards from our service providers.
-
-## Limitations
-
-While we implement strong security measures, no digital system is completely immune to security risks. We are transparent about our security practices and will notify affected users of any significant security incidents in accordance with applicable laws and best practices.
-
-## Updates
-
-This security policy may be updated to reflect changes in our practices or security requirements. Users will be notified of significant changes.
-
-## Questions
-
-For security-related questions or concerns, please contact us through our website at https://othermy.com.
+privacy@othermy.com · [Privacy policy](https://othermy.com/privacy.html)
